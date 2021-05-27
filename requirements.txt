@@ -1,15 +1,12 @@
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.3.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach==3.3.0
 certifi==2020.12.5
 cffi==1.14.5
 click==8.0.1
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler==0.10.0
 dataclasses==0.8
-decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
 defusedxml==0.7.1
 entrypoints==0.3
 Flask==2.0.1
