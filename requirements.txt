@@ -13,9 +13,6 @@ Flask==2.0.1
 imbalanced-learn==0.8.0
 imblearn==0.0
 importlib-metadata==3.10.0
-ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593446240034/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
 itsdangerous==2.0.1
 jedi==0.17.0
@@ -23,9 +20,7 @@ Jinja2==3.0.1
 joblib==1.0.1
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-console==6.4.0
-jupyter-core @ file:///C:/ci/jupyter_core_1612213536848/work
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 kiwisolver==1.3.1
@@ -41,17 +36,12 @@ numpy==1.19.5
 packaging==20.9
 pandas==1.1.5
 pandocfilters==1.4.3
-parso @ file:///tmp/build/80754af9/parso_1607623074025/work
 pickle-mixin==1.0.2
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.1.2
 prometheus-client==0.9.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 pycparser==2.20
-Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
 pyparsing==2.4.7
 pyrsistent==0.17.3
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
 pytz==2021.1
 pywin32==227
 pywinpty==0.5.7
@@ -62,14 +52,11 @@ scikit-learn==0.24.2
 scipy==1.5.4
 seaborn==0.11.1
 Send2Trash==1.5.0
-six @ file:///C:/ci/six_1605187303045/work
 terminado==0.9.4
 testpath==0.4.4
 threadpoolctl==2.1.0
-tornado @ file:///C:/ci/tornado_1606942379977/work
 traitlets==4.3.3
 typing-extensions==3.7.4.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==2.0.1
 widgetsnbextension==3.5.1
