@@ -12,9 +12,6 @@ Flask==2.0.1
 imbalanced-learn==0.8.0
 imblearn==0.0
 importlib-metadata==3.10.0
-ipykernel @ file:///C:/ci/ipykernel_1596206775157/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593446240034/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.3
 itsdangerous==2.0.1
 jedi==0.17.0
